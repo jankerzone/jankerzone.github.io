@@ -2,7 +2,7 @@
 
 title: Blog | Robsan
 baseurl: # name of the repository
-
+repository: jankerzone/jankerzone.github.io
 highlighter: rouge
 markdown: kramdown
 ### exclude the instructions / write-up in the README.md
@@ -32,4 +32,5 @@ exclude:
 - README.md
 
 
-gems: [jekyll-seo-tag, jekyll-paginate]
+gems: [jekyll-seo-tag, jekyll-paginate, jekyll-github-metadata]
+

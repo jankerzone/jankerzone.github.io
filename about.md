@@ -10,10 +10,15 @@ permalink: /about/
 
 **Who?** RobSan adalah akronim dari Robby Sanjaya, Muhammad. 
 
-**When?**
+**When?** Dibikin akhir tahun 2016, gitu.
 
-**Where?**
+**Where?** Saya berdomisili di Jabodetabek, bekerja sebagai programmer di salah satu Kementerian di daerah Menteng
 
-**Why?**
+**Why?** Mengapa? mengapa apa? 
 
-**How?**
+**How?** Bagaimana kamu menghubungi Robsan? kirim surat cinta atau bunga ke silent.janker@gmail.com
+
+
+
+
+> Almost Curhat, Barely Sharing
