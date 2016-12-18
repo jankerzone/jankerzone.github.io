@@ -14,4 +14,4 @@ Bahkan dengan baik hatinya, CloudConvert menyediakan pemakaian terintegrasi API,
 
 Untuk penggunaan hingga maksimal 1024 MB, maka diperlukan login / register terlebih dahulu.
 
-Mengesankan ☺! [Link](https://cloudconvert.org/)
+Mengesankan layaknya tarian Awkarin ☺! [Link](https://cloudconvert.org/)
