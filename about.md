@@ -1,6 +1,6 @@
 ---
 title: About Me Seriously?
-layout: post
+layout: page
 permalink: /about/
 ---
 
