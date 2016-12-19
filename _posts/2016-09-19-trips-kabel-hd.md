@@ -13,19 +13,19 @@ date:   2016-09-19 13:34:56 +0530
 **Analisis 2:** Bisa jadi port usb laptop saya yang kurang daya, coba hubungkan ke perangkat lain ternyata *connect*, oke mungkin kabel hardisk (*tipe kabel yang saya maksud adalah hard disk cable 3.0, bukan kabel hard disk trapesium 2.0 / tipe lawas*)
 
 ***Penampakan kabel hardisk 3.0***
-![Penampakan kabel hardisk 3.0](https://i.imgur.com/ODitVW7.jpg)
+![Penampakan kabel hardisk 3.0](http://imgur.com/H3JH9ML.jpg)
 
 ## **Solusi**
 
 Oke, cari kabel data usb tipe micro-B yang menguasai dunia dan merajalela saat ini (bahasa daerahnya, *kabel android* :p)
 
 ***Lihat gambar dibawah***
-![enter image description here](https://i.imgur.com/W2GF6gt.jpg)
+![enter image description here](http://imgur.com/n9wTAgk.jpg)
 
 Sama kan? Setelah saya sadar bahwa ternyata kabel hardisk 3.0 dan kabel android mempunyai kesamaan visi, yakni mengalirkan data beserta power, saya asumsikan mereka berjodoh, mari kita pasang...!
 
 ***Soundtrack jodoh pasti bertemu - younglex***
-![Jodoh](http://i.imgur.com/atZounV.jpg)
+![Jodoh](http://imgur.com/37zlTmo.jpg)
 
 ...dan voila, LED hardisk menyala dan terdeteksi di hardisk. 
 

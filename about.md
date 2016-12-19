@@ -14,17 +14,8 @@ permalink: /about/
 
 **Where?** Saya berdomisili di Jabodetabek, bekerja sebagai programmer di salah satu Kementerian di daerah Menteng
 
-<<<<<<< HEAD
 **Why?** Mengapa? mengapa apa? Ayolaah
 
 **How?** Bagaimana kamu menghubungi Robsan? kirim surat cinta atau bunga ke: <silent.janker@gmail.com>
-=======
-**Why?** Mengapa? mengapa apa? 
-
-**How?** Bagaimana kamu menghubungi Robsan? kirim surat cinta atau bunga ke silent.janker@gmail.com
-
-
-
->>>>>>> e00db8e976fe987fd5925d38c2ce361c14a35f4c
-
-> Almost Curhat, Barely Sharing
+  
+> "Almost Curhat, Barely Sharing"
