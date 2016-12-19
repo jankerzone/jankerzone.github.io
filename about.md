@@ -16,6 +16,6 @@ permalink: /about/
 
 **Why?** Mengapa? mengapa apa? Ayolaah
 
-**How?** Bagaimana kamu menghubungi Robsan? kirim surat cinta atau bunga ke: <silent.janker@gmail.com>
+**How?** Bagaimana blog ini dibikin? yakni dengan bantuan teknologi Git, Github-Pages, Ruby Gem, Jekyll, sisanya HTML, JS dan CSS. Pengen menghack blog ini? tak perlu repot-repot karena sourcecode nya tersedia [disini](//github.com/jankerzone/jankerzone.github.io). Tertarik untuk mengirimkan surat cinta atau bunga? <mailto:silentjanker@gmail.com> 
   
 > "Almost Curhat, Barely Sharing"
