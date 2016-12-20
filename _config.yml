@@ -5,7 +5,7 @@ baseurl: # name of the repository
 repository: jankerzone/jankerzone.github.io
 highlighter: rouge
 markdown: kramdown
-disqus: jankerzone
+disqus_shortname: janker
 ### exclude the instructions / write-up in the README.md
 
 
