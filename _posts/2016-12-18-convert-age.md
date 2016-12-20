@@ -2,6 +2,7 @@
 layout: post
 title:  "‘Upload to Convert’ Era"
 date:   2016-12-18 17:34:56 +0530
+comments: true
 ---
 
 > “Seperti jargon yang begitu dibanggakan, convert anything to anything”

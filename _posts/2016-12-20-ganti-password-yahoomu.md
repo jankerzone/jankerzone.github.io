@@ -2,6 +2,7 @@
 layout: post
 title:  "Buruan: Ganti Password Yahoo Sekarang!"
 date:   2016-12-20 08:34:56 +0530
+comments: true
 ---
 
   Post ini cukup kamu abaikan kalo memang enggak pakai Yahoo Mail sebagai sarana berkirim surelmu
