@@ -1,14 +1,11 @@
 ### your site title here
 
 title: Blog | Robsan
-baseurl: # name of the repository
+baseurl: https://blog.jankerzone.com
 repository: jankerzone/jankerzone.github.io
 highlighter: rouge
 markdown: kramdown
 disqus_shortname: robsanblog
-url: https://blog.jankerzone.com
-### exclude the instructions / write-up in the README.md
-
 
 
 # Tracker
