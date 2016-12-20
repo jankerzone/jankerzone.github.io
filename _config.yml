@@ -6,7 +6,7 @@ repository: jankerzone/jankerzone.github.io
 highlighter: rouge
 markdown: kramdown
 disqus_shortname: robsanblog
-url: blog.jankerzone.com
+url: https://blog.jankerzone.com
 ### exclude the instructions / write-up in the README.md
 
 
