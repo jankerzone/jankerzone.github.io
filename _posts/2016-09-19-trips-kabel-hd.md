@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pertolongan Pertama: Kabel USB Hardisk External Rusak :("
-date:   2016-09-19 13:34:56 +0530
+date:   2016-12-19 13:34:56 +0530
 ---
   
   Ini terjadi begitu mendadak. Ketika sedang gawat-gawatnya, hardisk external yang berisi ribuan koleksi fotonude pribadi serta manga one piece dari episode 1 - tamat mendadak tidak bisa dipakai. 
