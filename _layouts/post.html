@@ -7,4 +7,6 @@ layout: default
 {{content}}
 <hr>
 <p>Apakah tulisan saya cukup mengesankan? Kalau belum setidaknya follow <a href="//twitter.com/jankerzone" target="_blank">Twitter</a> atau <a href="//instagram.com/jankerzone" target="_blank">Instagram</a> saya ;)</p>
-{% include disqus.html %}
+{% if page.comments %}
+	{% include disqus.html %}
+{% endif %}
