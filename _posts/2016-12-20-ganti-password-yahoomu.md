@@ -19,6 +19,7 @@ Para pembobol menggunakan teknik *forged cookies* dimana pembobol menyusup pada 
 Pembobolan akun membuat Verizon selaku perusahaan yang hendak mengakuisisi Yahoo menurunkan nilai tawarannya
 
 **Artikel 2**
+<https://tirto.id/lagi-lagi-pembobolan-besar-besaran-akun-yahoo-b9Vo>
 
 ## TL;DR
 Peretasan akun pada Yahoo mencapai 1 milyar akun
