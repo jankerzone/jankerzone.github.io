@@ -32,7 +32,7 @@ Download opera <http://www.opera.com/>
 ![Bukti](https://snag.gy/cHEVbo.jpg)
 
 Opera VPN for Android
-![Mobile](http//cdn.bgr.com/2016/08/opera-vpn-for-android-2.jpg?quality=98&strip=all&strip=all)
+![Mobile](http://cdn.bgr.com/2016/08/opera-vpn-for-android-2.jpg?quality=98&strip=all&strip=all)
 
 Download Opera VPN di AppStore <https://play.google.com/store/apps/details?id=com.opera.vpn>
 
