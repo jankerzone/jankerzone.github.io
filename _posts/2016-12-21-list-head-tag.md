@@ -5,7 +5,7 @@ date:   2016-12-21 22:00:00 +0530
 comments: true
 ---
 
-![ilustrasi](/images/head-123.jpg)
+![ilustrasi]({{site.baseurl}}/images/head-123.jpg)
 Element < HEAD > pada sebuah website termasuk bagian yang krusial. Selain menjadi ‘kepala’ dari struktur html, < HEAD > memuat banyak informasi penting pada sebuah website. Bisa jadi, terbaca atau tidaknya sebuah website secara sempurna diakibatkan struktur < HEAD > yang sempurna pula. Okelah, mari cek sendiri artikelnya.
 
 
