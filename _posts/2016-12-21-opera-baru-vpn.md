@@ -22,3 +22,18 @@ Lihat ikon VPN pada samping URL browser masih berwarna abu-abu, indikasi bahwa V
 Perhatikan IP Adrressnya, berubah dengan praktis bahkan tanpa aplikasi pihak ke-3. Semua dilakukan dengan cuma-cuma, mudah bukan.
 
 > VPN adalah 'pengaman' tambahan, pengaman utama ada di hati kita **-MRS**
+
+-----------------------
+
+## Update
+
+Download opera <http://www.opera.com/>
+
+![Bukti](https://snag.gy/cHEVbo.jpg)
+
+Opera VPN for Android
+![Mobile](//cdn.bgr.com/2016/08/opera-vpn-for-android-2.jpg?quality=98&strip=all&strip=all)
+
+Download Opera VPN di AppStore <https://play.google.com/store/apps/details?id=com.opera.vpn>
+
+Agan Setya5785 di Kaskus ini mengembangkan aplikasi untuk mengolah Opera VPN dengan browser lain <http://kask.us/ikxX6>
