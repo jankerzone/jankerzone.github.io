@@ -13,11 +13,11 @@ Oke kita beralih ke Opera. Browser yang lebih hits pada mode mobile (Opera Mini)
 
 Fitur VPN pada Opera ini benar-benar gratis dan sangat mudah penggunaannya. Aktifkan fitur VPN di Menu > Settings > Privacy & security. Pada tab VPN, centang Enable VPN dan voila, seharusnya anda bisa melihat seperti ss dibawah.
 
-![Tanpa VPN](https://dl.kaskus.id/imgur.com/zhEex2o.jpg)
+![Tanpa VPN](http://i.imgur.com/zhEex2o.jpg?of=webp)
 
 Lihat ikon VPN pada samping URL browser masih berwarna abu-abu, indikasi bahwa VPN tidak aktif. Lalu dengan me-enable-kan fitur VPN akan tampil ikon warna biru dan berapa data yang berhasil dikompresi via VPN dan lokasi VPN berada.
 
-![Dengan VPN](https://dl.kaskus.id/imgur.com/tPgD6QQ.jpg)
+![Dengan VPN](http://i.imgur.com/tPgD6QQ.jpg?of=webp)
 
 Perhatikan IP Adrressnya, berubah dengan praktis bahkan tanpa aplikasi pihak ke-3. Semua dilakukan dengan cuma-cuma, mudah bukan.
 
