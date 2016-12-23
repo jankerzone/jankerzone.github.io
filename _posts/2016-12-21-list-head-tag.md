@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "List <HEAD> Lengkap Untuk Websitemu"
+title:  "List < HEAD > Lengkap Untuk Websitemu"
 date:   2016-12-21 22:00:00 +0530
 comments: true
 ---
