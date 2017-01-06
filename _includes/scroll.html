@@ -1,0 +1,12 @@
+	<script src="//raw.githubusercontent.com/jeremenichelli/scrollProgress/master/dist/scrollProgress.min.js"></script>
+	<script>
+		window.onload = function() {
+			scrollProgress.set({
+					styles: false,
+					events: false,
+					bottom: true
+				});
+			window.onresize = scrollProgress.update;
+			window.onscroll = scrollProgress.trigger;
+		};
+	</script>
