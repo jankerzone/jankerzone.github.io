@@ -6,7 +6,7 @@ comments: true
 ---
 
 Tahun baru 2017 menjelang, dan ini harus dirayakan!
------------
+
 Terkadang sebagai web developer, kita punya banyak masalah saat mencoba merangkai sebuah produk karena berbagai keterbatasan. Yak, ambil contoh kecil yang saya alami: Membuat tampilan user yang menarik dengan pop-up otomatis, dropdown yang menawan, progress bar lucu kala website belum tertampil sempurna, dan bla bla bla.
 
 Github, bergandengan tangan bersama hubspot, menciptakan komunitas open-source yang ready-to-pakai buat kamu.
