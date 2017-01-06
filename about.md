@@ -6,7 +6,7 @@ permalink: /about/
 
 ## 5W1H
 
-**What?** RobSan adalah blog pribadi yang diharapkan dapat menambah khasanah ilmu pengetahuan tentang dunia IT, website developer, tips, trik, dan trips.... ya, harapannya sih gitu :P
+**What?** RobSan adalah blog pribadi yang diharapkan dapat menambah khasanah ilmu pengetahuan tentang teknologi, website developer, tips, trik, dan trips.... ya, harapannya sih gitu :P
 
 **Who?** RobSan adalah akronim dari Robby Sanjaya, Muhammad. 
 
@@ -16,6 +16,6 @@ permalink: /about/
 
 **Why?** Mengapa? mengapa apa? Ayolaah
 
-**How?** Bagaimana blog ini dibikin? yakni dengan bantuan teknologi Git, Github-Pages, Ruby Gem, Jekyll, sisanya HTML, JS dan CSS. Pengen menghack blog ini? tak perlu repot-repot karena sourcecode nya tersedia [disini](//github.com/jankerzone/jankerzone.github.io). Tertarik untuk mengirimkan surat cinta atau bunga? <mailto:silentjanker@gmail.com> 
+**How?** Bagaimana blog ini dibikin? tentunya dengan bantuan junjungan besar saya: HTML, JS dan CSS. Pengen menghack blog ini? tak perlu repot-repot karena sourcecode nya tersedia [disini](//github.com/jankerzone/jankerzone.github.io). Tertarik untuk mengirimkan surat cinta atau bunga? <mailto:silentjanker@gmail.com> 
   
 > "Almost Curhat, Barely Sharing"
