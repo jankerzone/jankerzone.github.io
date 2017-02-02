@@ -11,12 +11,13 @@ Gitlab, perusahaan yang bergerak di bidang developer tools, dengan tagline "GitL
 Kemarin hari (01 Febuari 2017), musibah tiba-tiba datang dan meradang Gitlab hingga situsnya tidak bisa diakses. Insiden terjadi pada salah satu database diantara empat database data mereka (issues, merge requests, users, comments, snippets, dll). Tidak tanggung-tanggung, selama 6 jam Gitlab mengalami kegagalan sistem dan yang paling berdampak, yakni production data.
 
 Teknisi Gitlab menduga, serangan pertama memukul database mereka dengan cara spamming database dengan membuat snippet, membuat sistem tidak stabil.
+
 ![Spamming Snippets](https://about.gitlab.com/images/db_incident/snippets.png)
 
 Serangan menghempas tiga kali sebelum tahap recovery dimulai. Beberapa kesimpulan pun dibuat, dari snapshot yang berjalan pada siklus 24 jam-an hingga Amazon S3 yang ternyata tidak mem-backup data. 
 
 Lebih lengkapnya baca di web mereka, sebuah insiden yang pedih mungkin bisa jadi pelajaran bagi kita :)
 
-!(Link)[https://about.gitlab.com/2017/02/01/gitlab-dot-com-database-incident/]
+![Link](https://about.gitlab.com/2017/02/01/gitlab-dot-com-database-incident/)
 
 > Seperti cinta, kegagalan sistem acapkali terjadi diluar dugaan kita, waspada! -MRS
