@@ -18,6 +18,6 @@ Serangan menghempas tiga kali sebelum tahap recovery dimulai. Beberapa kesimpula
 
 Lebih lengkapnya baca di web mereka, sebuah insiden yang pedih mungkin bisa jadi pelajaran bagi kita :)
 
-![Link](https://about.gitlab.com/2017/02/01/gitlab-dot-com-database-incident/)
+Sumber: <https://about.gitlab.com/2017/02/01/gitlab-dot-com-database-incident/>
 
 > Seperti cinta, kegagalan sistem acapkali terjadi diluar dugaan kita, waspada! -MRS
