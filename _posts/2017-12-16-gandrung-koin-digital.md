@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Gandrung Koin Digital: Kisah Bitcoin dan sanak-saudaranya"
-date:   2017-12-16 21:00:00 +0530
+date:   2017-12-16 09:00:00 +0530
 comments: true
 ---
 
