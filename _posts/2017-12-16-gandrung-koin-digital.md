@@ -17,7 +17,7 @@ Ibarat seperti berkirim koin emas digital via surel, penggunaannya sangat mudah.
 Jelas dong, ibarat sebuah bank, membuka rekening (disebut juga wallet) tak pernah semudah ini. Akses wallet via PC, Laptop, Smartphone, bahkan walletmu bisa di-print dan disimpan secara offline. Keamanan? Yes, Bitcoin menggabungkan kekuatan enkripsi yang sering dipakai pada militer, perbankan, bahkan aplikasi pemerintahan. Dua sisanya, open source dan biaya sangat minimal, kecepatan transaksi juga bisa dipengaruhi oleh tip yang kalian berikan kepada pengolah transaksi :D
 
 
-[![Bitcoin dalam Infografis](https://www.youtube.com/watch?v=Gc2en3nHxA4)](https://img.youtube.com/vi/Gc2en3nHxA4/0.jpg)
+[![Bitcoin dalam Infografis](https://www.youtube.com/watch?v=Gc2en3nHxA4)](/images/btv.jpg)
  
 
 > Awali tahun dengan semangat, karena hukum relativitas berlaku: semangat lama-lama akan memudar *ngacir - MRS
