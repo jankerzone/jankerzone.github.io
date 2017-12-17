@@ -20,4 +20,4 @@ Jelas dong, ibarat sebuah bank, membuka rekening (disebut juga wallet) tak perna
 
 Saya mengenal teknologi Blockchain dan tentunya Bitcoin pada medio 2011, saat dimana seorang miner masih sanggup mengolah transaksi dengan VGA gaming (pengalaman pribadi). Proses memecahkan blok saat itu jauh lebih mudah daripada saat ini, algoritma dari Bitcoin sendirilah yang memang membuat proses mining semakin lama semakin susah. 
 
-> Awali tahun dengan semangat, karena hukum relativitas berlaku: semangat lama-lama akan memudar *ngacir - MRS
+> Teknologi BlockChain dalam dunia koin-koin virtual adalah temuan jenius dari Internet yang bisa mengubah paradigma transaksi digital, tapi tidak bagi Cinta - MRS
