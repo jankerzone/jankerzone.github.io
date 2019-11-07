@@ -4,8 +4,17 @@ title: "Aplikasi KRISNA BAPPENAS"
 date: 2017-06-06 21:00 +0530
 comment: true
 ---
-![Under Construct](/images/c64ee8ffa2eff85e5ad2cead05c38181c0619bad9b1f5a5d69190de6e460c9e6.jpg)
 
+# TUTORIAL APLIKASI KRISNA BAPPENAS
 
-Mohon bersabar, ini ujian, postingannya sedang disusun.
+Tutorial KRISNA meliputi beberapa sub sistem yang terus berkembang, yakni:
+- Metode Registrasi, Login, Lupa Password
+- Renja Kementerian/Lembaga
+- Dana Alokasi Khusus Fisik (DAK)
+- tbc...
+
+# Metode Registrasi, Login, dan Lupa Password
+
+* Fitur Lupa Password dan Reset Password
+[Aplikasi KRISNA - Fitur Lupa Password dan Reset Password](https://youtu.be/TRyNY9EGijg?list=PL5ylJvLOlOh49WwANej7gCnGARD3UoYXH)
 
