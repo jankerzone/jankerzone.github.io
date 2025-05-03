@@ -1,18 +1,24 @@
 ---
 layout: post
-title:  "Meningkatkan Produktivitasmu dengan TMUX: Jalan Ninja Linux"
+title:  "Tingkatkan Produktivitasmu dengan TMUX: Jalan Ninja Linux"
 date:   2022-12-24 09:00:00 +0530
 comments: true
 ---
 
-### Meningkatkan Produktivitasmu dengan TMUX: Jalan Ninja Linux
+### Tingkatkan Produktivitasmu dengan TMUX: Jalan Ninja Linux
 
-Keuntungan utama dari menggunakan tmux pada Ubuntu adalah kemampuan untuk mengelola sesi terminal yang terpisah secara efisien dalam satu jendela atau bahkan di server jarak jauh. Ini memungkinkan Anda untuk menjalankan beberapa proses atau taks sekaligus tanpa harus membuka beberapa jendela terminal atau menggunakan multiplexer terminal lainnya.
+Kalau kamu sering kerja di terminal Linux, pasti pernah ngerasa ribet harus buka banyak jendela cuma buat jalanin beberapa proses sekaligus. Nah, di sinilah `tmux` jadi senjata rahasia yang wajib kamu kuasai.
 
-Dengan tmux, Anda dapat membagi layar terminal Anda ke dalam beberapa bagian (pane) dan menjalankan perintah di masing-masing bagian tersebut. Ini sangat berguna jika Anda ingin memantau beberapa proses atau membandingkan keluaran dari perintah yang berbeda.
+`tmux` (terminal multiplexer) bikin kamu bisa kelola beberapa sesi terminal dalam satu jendela. Gak cuma itu, kamu juga bisa akses sesi yang sama dari jarak jauh, cocok banget buat kerja di server.
 
-tmux juga memungkinkan Anda untuk melepaskan dari sesi dan meninggalkannya berjalan di latar belakang, sehingga Anda dapat menutup terminal tanpa menghentikan proses yang sedang berjalan. Ini berguna jika Anda ingin menjalankan proses yang memakan waktu lama atau menjalankan tugas-tugas di latar belakang, tanpa harus terus menerus terhubung ke server.
+Salah satu fitur andalannya adalah *split screen*. Kamu bisa bagi layar terminal jadi beberapa bagian (pane) dan jalanin perintah berbeda di tiap bagian. Jadi sambil build project, kamu bisa pantau log atau cek status service lain—semuanya dalam satu jendela.
 
-Selain itu, tmux memungkinkan Anda untuk mengirim perintah ke beberapa jendela atau pane sekaligus, sehingga Anda dapat dengan mudah mengelola beberapa sesi terminal dari satu tempat. Ini berguna jika Anda ingin menjalankan perintah yang sama di beberapa sesi terminal atau memantau keluaran dari beberapa proses secara bersamaan.
+Pernah jalanin proses lama terus gak sengaja nutup terminal? Dengan `tmux`, itu gak jadi masalah. Kamu bisa "detach" dari sesi tmux dan balik lagi nanti tanpa ganggu proses yang lagi jalan. Cocok banget buat yang suka ninggalin tugas jalan di background, apalagi di server remote.
 
-tmux juga dapat disesuaikan dengan mudah, dengan opsi untuk mengubah binding key dan pengaturan lainnya sesuai kebutuhan Anda. Ini memungkinkan Anda untuk menyesuaikan tmux sesuai dengan preferensi Anda dan membuatnya lebih mudah digunakan.
+Lebih kerennya lagi, kamu bisa kirim perintah ke banyak pane sekaligus. Misalnya, deploy script ke beberapa server dalam satu waktu—tinggal satu ketukan, beres semua.
+
+Dan kalau kamu suka ngoprek, `tmux` juga bisa dikustomisasi sesuai gaya kamu. Mulai dari ganti shortcut sampai tema warna, semua bisa diatur biar makin nyaman dipakai.
+
+Singkatnya, kalau kamu pengen kerja lebih efisien di terminal, `tmux` adalah jalan ninja yang gak boleh dilewatkan. Install sekarang, dan rasain sendiri bedanya!
+
+---
