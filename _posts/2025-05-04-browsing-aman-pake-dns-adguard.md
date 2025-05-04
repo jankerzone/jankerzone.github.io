@@ -8,7 +8,7 @@ comments: true
 ### Browsing Aman dan Cepat Pakai DNS AdGuard: Gak Perlu Ribet!
 
   
-![Ilustrasi DNS AdGuard](images/adguard_illustration.webp)
+![Ilustrasi DNS AdGuard](/images/adguard_illustration.webp)
 
 
 Kita semua pernah ngerasa risih sama iklan di web — mulai dari yang nyebelin sampai yang berbahaya. Tapi, tahukah kamu kalau kamu bisa **blokir iklan dan lindungi privasi kamu cuma dengan ganti DNS**? Tanpa install apa-apa!
