@@ -44,11 +44,9 @@ Nah, AdGuard DNS adalah layanan DNS publik yang bisa:
     3.  Scroll ke bawah, klik **Edit** pada **DNS settings**
     4.  Ganti ke **Manual**, lalu isi:
     
-    IPv4:  
-`    
-94.140.14.14  
-94.140.15.15
-`
+    IPv4:    
+`94.140.14.14`  
+`94.140.15.15`
 5.  Simpan, dan selesai!
 
 ---
