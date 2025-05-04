@@ -31,12 +31,9 @@ Nah, AdGuard DNS adalah layanan DNS publik yang bisa:
 1.  Buka **Settings** > **Network & Internet** > **Private DNS**
 2.  Pilih: `Private DNS provider hostname`
 3.  Masukkan:  
-    
-
-dns.adguard.com
-
-1.  Simpan. Selesai!
-2.  Kalau kamu pakai Android 9 ke atas, ini langsung aktif buat semua koneksi kamu.
+        `dns.adguard.com`
+4.  Simpan. Selesai!
+5.  Kalau kamu pakai Android 9 ke atas, ini langsung aktif buat semua koneksi kamu.
     
     ---
     
@@ -48,11 +45,10 @@ dns.adguard.com
     4.  Ganti ke **Manual**, lalu isi:
     
     IPv4:  
-    
-
+`    
 94.140.14.14  
 94.140.15.15
-
+`
 5.  Simpan, dan selesai!
 
 ---
