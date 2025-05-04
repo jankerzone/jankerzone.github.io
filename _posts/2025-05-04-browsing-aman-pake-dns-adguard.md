@@ -4,9 +4,6 @@ title:  "Browsing Aman dan Cepat Pakai DNS AdGuard: Gak Perlu Ribet!"
 date:   2025-05-04 09:00:00 +0530
 comments: true
 ---
-
-### Browsing Aman dan Cepat Pakai DNS AdGuard: Gak Perlu Ribet!
-
   
 ![Ilustrasi DNS AdGuard](/images/adguard_illustration.webp)
 
