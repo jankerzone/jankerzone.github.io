@@ -94,15 +94,16 @@ chmod +x [url]
 
 ### Baca-baca dulu soal Cron dan Crontab
 > https://www.digitalocean.com/community/tutorials/how-to-use-cron-to-automate-tasks-on-a-vps?source=post_page-----8590154d0ecc---------------------------------------
+
 ### Cek apakah Port sudah listening apa belum
 	sudo netstat -plunt
-### Belajar Membuka dan Menutup Port Server
 
+### Belajar Membuka dan Menutup Port Server
 > [https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-using-firewalld-on-centos-7](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-using-firewalld-on-centos-7?source=post_page-----8590154d0ecc---------------------------------------#setting-rules-for-your-applications)
+
 ### Instalasi OpenVPN
 
 	wget https://git.io/vpn -O openvpn-install.sh
----
 	sudo chmod +x openvpn-install.sh  
 	sudo bash openvpn-install.sh
 
